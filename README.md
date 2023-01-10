@@ -1,2 +1,2 @@
-### Currículo feito em Mkdocs
+### Currículo feito em Markdown
 #### [Confira](https://edinaildo.github.io/curriculo/)
